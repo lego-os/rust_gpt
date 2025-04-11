@@ -1,0 +1,13 @@
+[package]
+name = "gpt"
+version = "0.2.0"
+edition = "2024"
+authors = ["ZhiLei Qiu <18304935041@163.com>"]
+repository = "https://github.com/lego-os/rust_gpt"
+keywords = ["gpt", "guid"]
+
+[lib]
+name = "gpt"
+
+[dependencies]
+crc = "3.2.1"
